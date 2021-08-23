@@ -16,7 +16,7 @@ namespace Airline_M_S
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Formlogin());;
+            Application.Run(new flightadd());;
         }
     }
 }
